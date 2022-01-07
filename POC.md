@@ -1,5 +1,7 @@
 Default User/Password login,get your authorization
 
+Default user/password: xadmin/o2
+
 1.Add the Interface 
 ```
 POST /x_program_center/jaxrs/invoke?v=6.3 HTTP/1.1
